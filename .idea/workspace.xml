@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58b7084b-7d48-4cb4-a4f8-db29fd7a72d8" name="Default Changelist" comment="" />
+    <list default="true" id="58b7084b-7d48-4cb4-a4f8-db29fd7a72d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/asideHolder.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/mainBody.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/mainFooter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/mainHeader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/mainNav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/sideNav.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +22,11 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1W7aXU2KXyz57GTnUXJqY4Mw6Ef" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -45,11 +59,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578503126497</updated>
-      <workItem from="1578503127675" duration="24000" />
+      <workItem from="1578503127675" duration="4335000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3798" y="-619" width="1420" height="731" maximized="true" key="dock-window-1" timestamp="1578504871510">
+      <screen x="3840" y="-765" width="1536" height="848" />
+    </state>
+    <state x="3798" y="-619" width="1420" height="731" maximized="true" key="dock-window-1/3840.-765.1536.848/0.0.1920.1040/1920.0.1920.999@1920.0.1920.999" timestamp="1578504871510" />
+    <state x="3908" y="-565" width="1420" height="731" key="dock-window-2" timestamp="1578504816876">
+      <screen x="3840" y="-765" width="1536" height="848" />
+    </state>
+    <state x="3908" y="-565" width="1420" height="731" key="dock-window-2/3840.-765.1536.848/0.0.1920.1040/1920.0.1920.999@1920.0.1920.999" timestamp="1578504816876" />
+    <state x="3968" y="-565" width="1420" height="731" key="dock-window-3" timestamp="1578505296934">
+      <screen x="3840" y="-765" width="1536" height="848" />
+    </state>
+    <state x="3968" y="-565" width="1420" height="731" key="dock-window-3/3840.-765.1536.848/0.0.1920.1040/1920.0.1920.999@1920.0.1920.999" timestamp="1578505296934" />
   </component>
 </project>

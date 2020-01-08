@@ -1,0 +1,12 @@
+div.asideHolder {
+    display: flex;
+    flex-direction: row;
+}
+
+div.aside {
+    background: #BBFFFF;
+    border: 2px solid black;
+    padding: 5px;
+    text-align: center;
+}
+
