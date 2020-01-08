@@ -1,9 +1,9 @@
-div.asideHolder {
+.asideHolder {
     display: flex;
     flex-direction: row;
 }
 
-div.aside {
+.aside {
     background: #BBFFFF;
     border: 2px solid black;
     padding: 5px;
